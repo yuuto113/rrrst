@@ -46,7 +46,7 @@ class _LoginPageState extends State<LoginPage> {
                   child: TextField(
                     controller: emailController,
                     decoration: InputDecoration(
-                        hintText: "メールアドレス"
+                        hintText: "メールアドレスス"
                     ),
                   ),
                 ),
