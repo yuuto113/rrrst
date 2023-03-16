@@ -66,7 +66,7 @@ class _LoginPageState extends State<LoginPage> {
                     style: TextStyle(color: Colors.black),
                     children: [
                       TextSpan(text: "アカウントを作成してない方は"),
-                      TextSpan(text: "こちら",style: TextStyle(color: Colors.blue),
+                      TextSpan(text: "こちらから",style: TextStyle(color: Colors.blue),
                       recognizer: TapGestureRecognizer()..onTap=(){
                         Navigator.push(context, MaterialPageRoute(builder: (context) => CreateAcountPage()));
                       }
