@@ -38,7 +38,7 @@ class _LoginPageState extends State<LoginPage> {
 
             children: [
               SizedBox(height: 50,),
-              Text("twitterデモアプリ",style: TextStyle(fontSize: 24,fontWeight: FontWeight.bold),),
+              Text("twitterデモアプリンズ",style: TextStyle(fontSize: 24,fontWeight: FontWeight.bold),),
               Padding(
                 padding: const EdgeInsets.symmetric(vertical: 20.0),
                 child: Container(
