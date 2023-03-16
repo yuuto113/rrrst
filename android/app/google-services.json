@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "234618679519",
+    "project_id": "yuuto-c22aa",
+    "storage_bucket": "yuuto-c22aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234618679519:android:eaf0c1cc2a7493c2b6396a",
+        "android_client_info": {
+          "package_name": "com.example.tttest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234618679519-1m9fkd2gflp0itjaucitigncv35hu6se.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tttest",
+            "certificate_hash": "7deaa93100016e8b8fe3fb853157c38b43bd74ad"
+          }
+        },
+        {
+          "client_id": "234618679519-h9iqhd0mkgl0l09pdcassrhnjjt3i187.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRwl55j3W2Dtf0WxAg7rB369Y6G6zcwFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234618679519-brq89d59887s1j3o1jf1la44c6n99758.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "234618679519-citoh9hdk1cjv4t3hkqlqvu3mtj00g80.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tttest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
